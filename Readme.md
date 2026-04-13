@@ -3,7 +3,7 @@
 A real‑time vehicle detection and counting web application built with YOLOv8, OpenCV, and Streamlit.
 Upload any traffic video and the app will detect, track, and count vehicles (cars, motorcycles, buses, trucks) 
 
-** For code access or questions, please contact me at: tst1880@googlemail.com **
+**For code access or questions, please contact me at: tst1880@googlemail.com**
 
 # Demo
 
